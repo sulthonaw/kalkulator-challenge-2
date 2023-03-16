@@ -1,0 +1,60 @@
+D:\dotnet\Kalkulator\ModelStringDanSimbol\bin\Debug\net7.0\ModelStringDanSimbol.exe
+D:\dotnet\Kalkulator\ModelStringDanSimbol\bin\Debug\net7.0\ModelStringDanSimbol.deps.json
+D:\dotnet\Kalkulator\ModelStringDanSimbol\bin\Debug\net7.0\ModelStringDanSimbol.runtimeconfig.json
+D:\dotnet\Kalkulator\ModelStringDanSimbol\bin\Debug\net7.0\ModelStringDanSimbol.dll
+D:\dotnet\Kalkulator\ModelStringDanSimbol\bin\Debug\net7.0\ModelStringDanSimbol.pdb
+D:\dotnet\Kalkulator\ModelStringDanSimbol\obj\Debug\net7.0\ModelStringDanSimbol.csproj.AssemblyReference.cache
+D:\dotnet\Kalkulator\ModelStringDanSimbol\obj\Debug\net7.0\ModelStringDanSimbol.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Kalkulator\ModelStringDanSimbol\obj\Debug\net7.0\ModelStringDanSimbol.AssemblyInfoInputs.cache
+D:\dotnet\Kalkulator\ModelStringDanSimbol\obj\Debug\net7.0\ModelStringDanSimbol.AssemblyInfo.cs
+D:\dotnet\Kalkulator\ModelStringDanSimbol\obj\Debug\net7.0\ModelStringDanSimbol.csproj.CoreCompileInputs.cache
+D:\dotnet\Kalkulator\ModelStringDanSimbol\obj\Debug\net7.0\ModelStringDanSimbol.dll
+D:\dotnet\Kalkulator\ModelStringDanSimbol\obj\Debug\net7.0\refint\ModelStringDanSimbol.dll
+D:\dotnet\Kalkulator\ModelStringDanSimbol\obj\Debug\net7.0\ModelStringDanSimbol.pdb
+D:\dotnet\Kalkulator\ModelStringDanSimbol\obj\Debug\net7.0\ModelStringDanSimbol.genruntimeconfig.cache
+D:\dotnet\Kalkulator\ModelStringDanSimbol\obj\Debug\net7.0\ref\ModelStringDanSimbol.dll
+D:\dotnet\Kalkulator\ModelStringDanSimbol - v2\bin\Debug\net7.0\ModelStringDanSimbol.exe
+D:\dotnet\Kalkulator\ModelStringDanSimbol - v2\bin\Debug\net7.0\ModelStringDanSimbol.deps.json
+D:\dotnet\Kalkulator\ModelStringDanSimbol - v2\bin\Debug\net7.0\ModelStringDanSimbol.runtimeconfig.json
+D:\dotnet\Kalkulator\ModelStringDanSimbol - v2\bin\Debug\net7.0\ModelStringDanSimbol.dll
+D:\dotnet\Kalkulator\ModelStringDanSimbol - v2\bin\Debug\net7.0\ModelStringDanSimbol.pdb
+D:\dotnet\Kalkulator\ModelStringDanSimbol - v2\obj\Debug\net7.0\ModelStringDanSimbol.csproj.AssemblyReference.cache
+D:\dotnet\Kalkulator\ModelStringDanSimbol - v2\obj\Debug\net7.0\ModelStringDanSimbol.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Kalkulator\ModelStringDanSimbol - v2\obj\Debug\net7.0\ModelStringDanSimbol.AssemblyInfoInputs.cache
+D:\dotnet\Kalkulator\ModelStringDanSimbol - v2\obj\Debug\net7.0\ModelStringDanSimbol.AssemblyInfo.cs
+D:\dotnet\Kalkulator\ModelStringDanSimbol - v2\obj\Debug\net7.0\ModelStringDanSimbol.csproj.CoreCompileInputs.cache
+D:\dotnet\Kalkulator\ModelStringDanSimbol - v2\obj\Debug\net7.0\ModelStringDanSimbol.dll
+D:\dotnet\Kalkulator\ModelStringDanSimbol - v2\obj\Debug\net7.0\refint\ModelStringDanSimbol.dll
+D:\dotnet\Kalkulator\ModelStringDanSimbol - v2\obj\Debug\net7.0\ModelStringDanSimbol.pdb
+D:\dotnet\Kalkulator\ModelStringDanSimbol - v2\obj\Debug\net7.0\ModelStringDanSimbol.genruntimeconfig.cache
+D:\dotnet\Kalkulator\ModelStringDanSimbol - v2\obj\Debug\net7.0\ref\ModelStringDanSimbol.dll
+C:\sulthon\kalkulator-challenge-2\bin\Debug\net7.0\ModelStringDanSimbol.exe
+C:\sulthon\kalkulator-challenge-2\bin\Debug\net7.0\ModelStringDanSimbol.deps.json
+C:\sulthon\kalkulator-challenge-2\bin\Debug\net7.0\ModelStringDanSimbol.runtimeconfig.json
+C:\sulthon\kalkulator-challenge-2\bin\Debug\net7.0\ModelStringDanSimbol.dll
+C:\sulthon\kalkulator-challenge-2\bin\Debug\net7.0\ModelStringDanSimbol.pdb
+C:\sulthon\kalkulator-challenge-2\obj\Debug\net7.0\ModelStringDanSimbol.csproj.AssemblyReference.cache
+C:\sulthon\kalkulator-challenge-2\obj\Debug\net7.0\ModelStringDanSimbol.GeneratedMSBuildEditorConfig.editorconfig
+C:\sulthon\kalkulator-challenge-2\obj\Debug\net7.0\ModelStringDanSimbol.AssemblyInfoInputs.cache
+C:\sulthon\kalkulator-challenge-2\obj\Debug\net7.0\ModelStringDanSimbol.AssemblyInfo.cs
+C:\sulthon\kalkulator-challenge-2\obj\Debug\net7.0\ModelStringDanSimbol.csproj.CoreCompileInputs.cache
+C:\sulthon\kalkulator-challenge-2\obj\Debug\net7.0\ModelStringDanSimbol.dll
+C:\sulthon\kalkulator-challenge-2\obj\Debug\net7.0\refint\ModelStringDanSimbol.dll
+C:\sulthon\kalkulator-challenge-2\obj\Debug\net7.0\ModelStringDanSimbol.pdb
+C:\sulthon\kalkulator-challenge-2\obj\Debug\net7.0\ModelStringDanSimbol.genruntimeconfig.cache
+C:\sulthon\kalkulator-challenge-2\obj\Debug\net7.0\ref\ModelStringDanSimbol.dll
+C:\sulthon\kalkulator-challenge-2\v2\bin\Debug\net7.0\ModelStringDanSimbol.exe
+C:\sulthon\kalkulator-challenge-2\v2\bin\Debug\net7.0\ModelStringDanSimbol.deps.json
+C:\sulthon\kalkulator-challenge-2\v2\bin\Debug\net7.0\ModelStringDanSimbol.runtimeconfig.json
+C:\sulthon\kalkulator-challenge-2\v2\bin\Debug\net7.0\ModelStringDanSimbol.dll
+C:\sulthon\kalkulator-challenge-2\v2\bin\Debug\net7.0\ModelStringDanSimbol.pdb
+C:\sulthon\kalkulator-challenge-2\v2\obj\Debug\net7.0\ModelStringDanSimbol.csproj.AssemblyReference.cache
+C:\sulthon\kalkulator-challenge-2\v2\obj\Debug\net7.0\ModelStringDanSimbol.GeneratedMSBuildEditorConfig.editorconfig
+C:\sulthon\kalkulator-challenge-2\v2\obj\Debug\net7.0\ModelStringDanSimbol.AssemblyInfoInputs.cache
+C:\sulthon\kalkulator-challenge-2\v2\obj\Debug\net7.0\ModelStringDanSimbol.AssemblyInfo.cs
+C:\sulthon\kalkulator-challenge-2\v2\obj\Debug\net7.0\ModelStringDanSimbol.csproj.CoreCompileInputs.cache
+C:\sulthon\kalkulator-challenge-2\v2\obj\Debug\net7.0\ModelStringDanSimbol.dll
+C:\sulthon\kalkulator-challenge-2\v2\obj\Debug\net7.0\refint\ModelStringDanSimbol.dll
+C:\sulthon\kalkulator-challenge-2\v2\obj\Debug\net7.0\ModelStringDanSimbol.pdb
+C:\sulthon\kalkulator-challenge-2\v2\obj\Debug\net7.0\ModelStringDanSimbol.genruntimeconfig.cache
+C:\sulthon\kalkulator-challenge-2\v2\obj\Debug\net7.0\ref\ModelStringDanSimbol.dll

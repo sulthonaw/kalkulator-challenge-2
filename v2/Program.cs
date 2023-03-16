@@ -5,16 +5,25 @@
         static void Main(string[] args)
         {
             Console.Clear();
+
             int hasil = 0;
+
             while (true)
             {
                 Console.Write(
                     "\n\nInput operasi : "
                 );
 
-                string input = Console.ReadLine().Replace(" ", "");
+                string inputConsole = Console.ReadLine().Replace(" ", "");
 
                 char[] simbol = { '+', '-', '*', ':' };
+
+                string input = "";
+
+                if (inputConsole.Contains("="))
+                {
+                    input = inputConsole.Remove(inputConsole.Length-1);
+                }
 
                 int posisi = input.IndexOfAny(simbol);
 
@@ -23,15 +32,15 @@
                 if (posisi == 0)
                 {
                     pertama = hasil;
-                    int x = input.Length - (posisi + 1) - 1;
-                    kedua = Convert.ToInt32(input.Substring(posisi + 1, x));
+                    // int x = input.Length - (posisi + 1) - 1;
+                    kedua = Convert.ToInt32(input.Substring(posisi + 1));
                 }
                 else
                 {
                     pertama = Convert.ToInt32(input.Substring(0, posisi));
 
-                    int x = input.Length - (posisi + 1) - 1;
-                    kedua = Convert.ToInt32(input.Substring(posisi + 1, x));
+                    // int x = input.Length - (posisi + 1) - 1;
+                    kedua = Convert.ToInt32(input.Substring(posisi + 1));
                 }
 
                 char operasi = input[posisi];
@@ -40,28 +49,28 @@
                 {
                     case '+':
                         hasil = Tambah(pertama, kedua);
+                        if (posisi== 0) Console.WriteLine($"{pertama} + {kedua}");
                         Console.WriteLine("\nHasil = " + hasil);
                         break;
                     case '-':
                         hasil = Kurang(pertama, kedua);
+                        if (posisi == 0) Console.WriteLine($"{pertama} + {kedua}");
                         Console.WriteLine("\nHasil = " + hasil);
                         break;
                     case '*':
                         hasil = Kali(pertama, kedua);
+                        if (posisi == 0) Console.WriteLine($"{pertama} + {kedua} =");
                         Console.WriteLine("\nHasil = " + hasil);
                         break;
                     case ':':
                         hasil = Bagi(pertama, kedua);
+                        if (posisi == 0) Console.WriteLine($"{pertama} + {kedua}");
                         Console.WriteLine("\nHasil = " + hasil);
                         break;
                     default:
                         Console.WriteLine("\nPilihan anda tidak tersedia");
                         break;
                 }
-
-                // Console.Write("\napakah anda ingin melanjutkan? (y/n) ");
-                // char aksi = Convert.ToChar(Console.ReadLine());
-                // if (aksi == 'n') break;
 
             }
         }
