@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LabrNf1kDnz1vm7MFueTWATjqvzPgM5awZpjwMTKxr9GGwv3akmT2m1QDQaFhRkmpFi5GZo9NpOsgjfkEAZJdw==",
+  "dgSpecHash": "ec8RwT3z6fTAOH1WwjgVvgMi6ZKilFqF2LMtYfK+85G7G80g1sAffCrMx0vAuvRjt1O+/7j+6HU0HWI8CDWhIg==",
   "success": true,
-  "projectFilePath": "D:\\dotnet\\Kalkulator\\ModelStringDanSimbol - v2\\ModelStringDanSimbol.csproj",
+  "projectFilePath": "C:\\sulthon\\kalkulator-challenge-2\\ModelStringDanSimbol.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -12,7 +12,7 @@
                     "\n\nInput operasi : "
                 );
 
-                string input = Console.ReadLine();
+                string input = Console.ReadLine().Replace(" ", "");
 
                 char[] simbol = { '+', '-', '*', ':' };
 
@@ -25,8 +25,6 @@
                     pertama = hasil;
                     int x = input.Length - (posisi + 1) - 1;
                     kedua = Convert.ToInt32(input.Substring(posisi + 1, x));
-                    Console.WriteLine($"- pertama : {pertama}");
-                    Console.WriteLine($"- kedua : {kedua}");
                 }
                 else
                 {
@@ -35,8 +33,8 @@
                     int x = input.Length - (posisi + 1) - 1;
                     kedua = Convert.ToInt32(input.Substring(posisi + 1, x));
                 }
-                char operasi = input[posisi];
 
+                char operasi = input[posisi];
 
                 switch (operasi)
                 {
