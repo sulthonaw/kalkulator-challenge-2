@@ -39,6 +39,7 @@ Input operasi : 10+5=
 Hasil = 15
 
 Input operasi : -10=
+15 - 10
 
 Hasil = 5
 ```
