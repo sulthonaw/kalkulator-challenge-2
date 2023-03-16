@@ -42,7 +42,7 @@ Input operasi : -10=
 
 Hasil = 5
 ```
-
+Untuk menghentikan perulangan program, anda bisa menggunakan `CTRL + C` pada console atau tekan tombol exit console.
 ### Perhatian ❗
-- Input operasi harus berupa angka dan operator aritmatik `(+, -, *, :)`. Jika anda menginputkan selain angka dan operator aritmatik, anda akan mendapati error pada baris tertentu
-- Setiap operasi harus diakhiri dengan tanda sama dengan `=`, jika tidak anda akan mendapati error pada baris tertentu
+- Input operasi harus berupa angka dan operator aritmatik `(+, -, *, :)`. Jika anda menginputkan selain angka dan operator aritmatik, anda akan mendapati error pada baris tertentu.
+- Setiap operasi harus diakhiri dengan tanda sama dengan `=`, jika tidak anda akan mendapati error pada baris tertentu.
