@@ -54,17 +54,17 @@
                         break;
                     case '-':
                         hasil = Kurang(pertama, kedua);
-                        if (posisi == 0) Console.WriteLine($"{pertama} + {kedua}");
+                        if (posisi == 0) Console.WriteLine($"{pertama} - {kedua}");
                         Console.WriteLine("\nHasil = " + hasil);
                         break;
                     case '*':
                         hasil = Kali(pertama, kedua);
-                        if (posisi == 0) Console.WriteLine($"{pertama} + {kedua} =");
+                        if (posisi == 0) Console.WriteLine($"{pertama} * {kedua} =");
                         Console.WriteLine("\nHasil = " + hasil);
                         break;
                     case ':':
                         hasil = Bagi(pertama, kedua);
-                        if (posisi == 0) Console.WriteLine($"{pertama} + {kedua}");
+                        if (posisi == 0) Console.WriteLine($"{pertama} : {kedua}");
                         Console.WriteLine("\nHasil = " + hasil);
                         break;
                     default:
