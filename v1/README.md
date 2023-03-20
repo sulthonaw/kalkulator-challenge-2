@@ -1,6 +1,8 @@
 # Kalkulator Challenge 2
 Kalkulator sederhana yang merupakan pengembangan dari kalkulator model string dan simbol yang sebelumnya pernah saya buat [link proyek](https://github.com/sulthonaw/kalkulator-model-string-dan-simbol), yang berbeda adalah diversi ini operasi matematika bisa dilakukan beberapa kali. Dan kalkulator ini dibuat menggunakan bahasa pemrograman c#
 
+![](https://github.com/sulthonaw/kalkulator-challenge-2/blob/main/v1/assets/D__titip_kalkulator-challenge-2_v1_bin_Debug_net7.0_ModelStringDanSimbol.exe-2023-03-20-11-09-24.gif)
+
 ## Installasi
 Untuk menjalankan aplikasi anda perlu menginstal c# atau dotnet pada komputer anda, berikut dokumentasi yang saya sarankan untuk anda baca:
 - [Install c#](https://www.petanikode.com/cs-windows/)
